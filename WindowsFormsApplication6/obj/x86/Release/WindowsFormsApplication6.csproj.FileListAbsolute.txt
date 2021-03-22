@@ -1,0 +1,7 @@
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.csprojAssemblyReference.cache
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Admin.resources
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Login.resources
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.cartao.resources
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.csproj.GenerateResource.cache
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Release\WindowsFormsApplication6.csproj.CoreCompileInputs.cache

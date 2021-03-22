@@ -1,0 +1,460 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2FAF5D2A-4795-4DD0-A5DB-C73CB171094E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication6</RootNamespace>
+    <AssemblyName>WindowsFormsApplication6</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.21.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files (x86)\MySQL\MySQL Connector Net 8.0.21\Assemblies\v4.5.2\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tulpep.NotificationWindow, Version=1.1.37.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Tulpep.NotificationWindow.1.1.37\lib\net40\Tulpep.NotificationWindow.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aluno.Designer.cs">
+      <DependentUpon>Aluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Associacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Associacao.Designer.cs">
+      <DependentUpon>Associacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CriarTurma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CriarTurma.Designer.cs">
+      <DependentUpon>CriarTurma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EE.Designer.cs">
+      <DependentUpon>EE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EsqueceuPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EsqueceuPass.Designer.cs">
+      <DependentUpon>EsqueceuPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Exit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Exit.Designer.cs">
+      <DependentUpon>Exit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cartao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cartao.Designer.cs">
+      <DependentUpon>cartao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MailTeste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MailTeste.Designer.cs">
+      <DependentUpon>MailTeste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MudarPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MudarPass.Designer.cs">
+      <DependentUpon>MudarPass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Professor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Professor.Designer.cs">
+      <DependentUpon>Professor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rClass1.cs" />
+    <Compile Include="Registar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registar.Designer.cs">
+      <DependentUpon>Registar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestePrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestePrincipal.Designer.cs">
+      <DependentUpon>TestePrincipal.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aluno.resx">
+      <DependentUpon>Aluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Associacao.resx">
+      <DependentUpon>Associacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CriarTurma.resx">
+      <DependentUpon>CriarTurma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EE.resx">
+      <DependentUpon>EE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EsqueceuPass.resx">
+      <DependentUpon>EsqueceuPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Exit.resx">
+      <DependentUpon>Exit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cartao.resx">
+      <DependentUpon>cartao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MailTeste.resx">
+      <DependentUpon>MailTeste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MudarPass.resx">
+      <DependentUpon>MudarPass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Professor.resx">
+      <DependentUpon>Professor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Registar.resx">
+      <DependentUpon>Registar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestePrincipal.resx">
+      <DependentUpon>TestePrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cartão.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login V2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lixo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\return-button-png-1-Transparent-Images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\640px-Seta_direcional.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3cf794fe42cd0b2c6d781e0e0dd6b4bb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\69f3a1814bae7a531d75722d21498a77.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\da051464ce7db44639f4ea78cfb35762.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8b23fcb6b6c68d0f290b8dc5b5252214-cruz-ou---cone-de-mais-by-vexels.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\71227.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\951a617272553f49e75548e212ed947f-icone-de-marca-de-selecao-curvo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1024px-OOjs_UI_icon_logOut-ltr.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\person-male.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1138395421-612x612.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\102644.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calendar-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jonny.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calendar-1 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\person-male %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jonny_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\natural-paper-texture-background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\49896-simple_background-simple-748x421.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-1138395421-612x6121.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jonny_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\336538.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FundoCOCO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lixo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lixo %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\retangulo-arredondado-png-5 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\person-pngrepo-com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\caleponto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ponto_copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Registowhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\joaobranco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\epah_yha.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unnamed1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cadeado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pagamento-com-cartao-de-credito.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\invisivel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ponto-de-exclamacao.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capturar.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ExitAzul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calendar-1 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pontovermelho.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PersonAzul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ExitAzul1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RegistoAzul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cruzAzul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RegistoAzul1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rectangulo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lixo_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LixoAzul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PersonAzul_FInal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pontovermelho_Final.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LixoAzul_Final.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ExitAzul_4_PNG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LixoAzul_Final1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LixoAzul_Final_PNG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PersonAzul_FInal1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pontovermelho_Final1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Seta_Direita.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Seta_Esquerda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mar2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Trocar.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

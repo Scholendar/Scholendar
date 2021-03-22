@@ -1,0 +1,112 @@
+D:\TEMP\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TEMP\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+D:\TEMP\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\TEMP\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\TEMP\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\TEMP\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\TEMP\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\TEMP\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+D:\TEMP\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+D:\SYIS_RFID\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+D:\SYIS_RFID\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+D:\SYIS_RFID\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\SYIS_RFID\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\SYIS_RFID\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\SYIS_RFID\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+D:\SYIS_RFID\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\Documents and Settings\Bogi\桌面\WindowsFormsApplication\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+D:\Documents and Settings\Bogi\桌面\WindowsFormsApplication\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+D:\Documents and Settings\Bogi\桌面\WindowsFormsApplication\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+D:\Documents and Settings\Bogi\桌面\WindowsFormsApplication\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+D:\Documents and Settings\Bogi\桌面\WindowsFormsApplication\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Bogi\桌面\WindowsFormsApplication\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+D:\Documents and Settings\Bogi\桌面\WindowsFormsApplication\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\Documents and Settings\Bogi\桌面\WindowsFormsApplication\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\Ian\Desktop\Doc\RD200\原始程式\RD200 Application Example C#\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+C:\Users\Ian\Desktop\Doc\RD200\原始程式\RD200 Application Example C#\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+C:\Users\Ian\Desktop\Doc\RD200\原始程式\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+C:\Users\Ian\Desktop\Doc\RD200\原始程式\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+C:\Users\Ian\Desktop\Doc\RD200\原始程式\RD200 Application Example C#\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\Ian\Desktop\Doc\RD200\原始程式\RD200 Application Example C#\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\Ian\Desktop\Doc\RD200\原始程式\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ian\Desktop\Doc\RD200\原始程式\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+C:\Users\Ian\Desktop\Doc\RD200\原始程式\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\Ian\Desktop\Doc\RD200\原始程式\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csprojAssemblyReference.cache
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Admin.resources
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Login.resources
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.cartao.resources
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.cache
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\bin\Debug\MySql.Data.dll
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\bin\Debug\Google.Protobuf.dll
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\bin\Debug\Zstandard.Net.dll
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\bin\Debug\Renci.SshNet.dll
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\bin\Debug\System.Buffers.dll
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\bin\Debug\System.Memory.dll
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\bin\Debug\MySql.Data.xml
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.CopyComplete
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe.config
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Registar.resources
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Associacao.resources
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Professor.resources
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Aluno.resources
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Exit.resources
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.CriarTurma.resources
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.EE.resources
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.MailTeste.resources
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.MudarPass.resources
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.TestePrincipal.resources
+C:\Users\João\Desktop\RD200 Application Example C#\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.EsqueceuPass.resources
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe.config
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.exe
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\bin\Debug\WindowsFormsApplication6.pdb
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\bin\Debug\MySql.Data.dll
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\bin\Debug\Google.Protobuf.dll
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\bin\Debug\Zstandard.Net.dll
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\bin\Debug\Renci.SshNet.dll
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\bin\Debug\System.Memory.dll
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\bin\Debug\System.Buffers.dll
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\bin\Debug\MySql.Data.xml
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csprojAssemblyReference.cache
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe.config
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Admin.resources
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Aluno.resources
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Associacao.resources
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.CriarTurma.resources
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.EE.resources
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.EsqueceuPass.resources
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Exit.resources
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Login.resources
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.cartao.resources
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.MailTeste.resources
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.MudarPass.resources
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Professor.resources
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Registar.resources
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.TestePrincipal.resources
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.cache
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.CopyComplete
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.exe
+C:\Users\João\Desktop\Scholendar\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.pdb
